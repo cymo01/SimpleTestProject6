@@ -4,6 +4,7 @@
 #include <refExample.h>
 #include <simple.h>
 #include <testStock00.h>
+#include <testSimpleFunc.h>
 #include <vectorTest.h>
 #include <cstdlib>
 #include <iostream>
@@ -15,6 +16,7 @@ int main() {
     polarRectTest();  // call to do some simple Cartesian/polar conversions
     vectorTest();     // duplicate the array test function using vectors
     testStock00();    // test of the Stock class
+    testSimpleFunc(); // another simple function 
 
     std::cout << "This is a simple message." << std::endl;
     double pi = 3.14159265359;

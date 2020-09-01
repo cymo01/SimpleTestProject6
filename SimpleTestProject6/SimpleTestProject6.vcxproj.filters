@@ -42,6 +42,9 @@
     <ClCompile Include="testStock00.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testSimpleFunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\simple.h">
@@ -66,6 +69,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\include\testStock00.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\testSimpleFunc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

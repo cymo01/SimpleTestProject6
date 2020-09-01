@@ -103,7 +103,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\Kem\OneDrive\Documents\Visual Studio 2019\Projects\SimpleTestProject6\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\whitedk1\Documents\Visual Studio 2019\SimpleTestProject6\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -157,6 +157,7 @@
     <ClCompile Include="refExample.cpp" />
     <ClCompile Include="simple.cpp" />
     <ClCompile Include="Stock00.cpp" />
+    <ClCompile Include="testSimpleFunc.cpp" />
     <ClCompile Include="testStock00.cpp" />
     <ClCompile Include="vectorTest.cpp" />
   </ItemGroup>
@@ -166,6 +167,7 @@
     <ClInclude Include="..\include\polarRectTest.h" />
     <ClInclude Include="..\include\simple.h" />
     <ClInclude Include="..\include\stock00.h" />
+    <ClInclude Include="..\include\testSimpleFunc.h" />
     <ClInclude Include="..\include\testStock00.h" />
     <ClInclude Include="..\include\vectorTest.h" />
     <ClInclude Include="refExample.h" />
