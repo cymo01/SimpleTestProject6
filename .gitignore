@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+# MSVS files
+*.vcxproj
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -87,6 +90,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.vcxproj
 
 # Chutzpah Test files
 _Chutzpah*
