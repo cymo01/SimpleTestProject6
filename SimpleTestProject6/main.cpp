@@ -19,7 +19,9 @@ int main() {
     std::cout << "This is a simple message." << std::endl;
     double pi = 3.14159265359;
     double twoPi = 2.0 * pi;
+    double threePi = 3.0 * pi;
     std::cout << " pi= " << pi << std::endl;
     std::cout << " 2pi= " << twoPi << std::endl;
+    std::cout << " 3pi= " << threePi << std::endl;
     return EXIT_SUCCESS;
 }
