@@ -23,5 +23,6 @@ int main() {
     std::cout << " pi= " << pi << std::endl;
     std::cout << " 2pi= " << twoPi << std::endl;
     std::cout << " 3pi= " << threePi << std::endl;
+    std::cout << " 4pi= " << 4.0 * pi << std::endl;
     return EXIT_SUCCESS;
 }
