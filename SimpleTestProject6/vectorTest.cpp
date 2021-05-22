@@ -8,7 +8,7 @@ using namespace std;
 /*  Now create a 3 element vector and initialize it   */
 void vectorTest() {
     vector<double> yamCosts = {20.10, 30.35, 5.95};
-    int a;
+    size_t a;
     size_t n = yamCosts.size();  // A better way to get the elements in an array.                   
     auto it = yamCosts.begin();
     cout << *it << endl;
