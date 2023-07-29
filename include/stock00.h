@@ -6,7 +6,6 @@
 class Stock
 {
 public:
-	stock():
 //	Stock();  //Save the constructor and destructor for later
 //	~Stock();
 	void acquire(const std::string & co, long n, double pr);
