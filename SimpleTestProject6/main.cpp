@@ -1,4 +1,7 @@
 
+
+// This is a simple C++ program
+// It calculates some simple things
 #include <arrayTest.h>
 #include <polarRectTest.h>
 #include <refExample.h>
